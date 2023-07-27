@@ -1,2 +1,2 @@
-# Solartec
-https://3m-mahmoud.github.io/Solartec/
+#Bettihome
+https://github.com/samahsaleh/Bettihome.git
